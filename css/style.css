@@ -2,7 +2,7 @@
 @media only screen and (min-width: 658px) {
   h2 {
      text-align:center;
-     font-size: 45x;
+     font-size: 45px;
   body {
     text-aligh:center;
     background-color: #92a8d1;
@@ -33,7 +33,7 @@
     font-family: "Times New Roman", Times, serif;
   }
   input {
-    width: 40
+    width: 40;
     border-radius: 4px;
     margin: 12x 0;
     padding 7px;
